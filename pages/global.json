@@ -1,0 +1,9 @@
+{
+    "description" : "Everything we do is about you. From chefs who create exciting new flavors, to crew members who know exactly how you want your drink – we prioritize what you need to get you on your way. We strive to keep you at your best, and we remain loyal to you, your tastes and your time",
+    "title": "VecchiaRoma Ristaurante Pizzeria",
+    "hours" : [
+        {"day" : "Monday-Friday", "time": "6am to 10pm"},
+        {"day" : "Saturday", "time": "7am to 11pm"},
+        {"day" : "Sunday", "time": "7am to 9pm"}
+    ]
+}

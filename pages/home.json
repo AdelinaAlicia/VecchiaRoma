@@ -1,0 +1,23 @@
+{
+    "hero": {
+        "header1" : "Eat Tasty <br> and Natural Foods",
+        "header2" : "We Love <br> Delicious Food",
+        "header3" : "Welcome!<br> Here is your new favorite place to eat",
+        "subtext1" : "Flavorsome indicates good tasting, full of flavor, specifically pleasant flavor; implying delicious, tasty, appetizing, scrumptious, yummy, juicy, succulent, heavenly, inviting, luscious, mouthwatering, palatable, saporous, savory!",
+        "subtext2" : "Tastes great! Eating something delicious right now!",
+        "subtext3" : "Healthy foods are those that provide you with the nutrients you need to sustain your body's well-being and retain energy!",
+        "introPath1": "/images/intro1.jpg",
+        "introPath2": "/images/intro2.jpg",
+        "introPath3": "/images/intro3.jpg"
+    },
+    "about":{
+        "header": "Enjoy quality time here at VecchiaRoma",
+        "description": "Everything we do is about you. From chefs who create exciting new flavors, to crew members who know exactly how you want your drink – we prioritize what you need to get you on your way. We strive to keep you at your best, and we remain loyal to you, your tastes and your time!",
+        "back_image": "/images/back_image.jpg",
+        "images" : [
+            {"image": "/images/dish1.jpg", "caption": "Lobster Cocktail"},
+            {"image": "/images/dish2.jpg", "caption": "Creamy garlic seafood pasta"},
+            {"image": "/images/dish3.jpg", "caption": "Grilled T-Bone Steak"}
+        ]      
+    }
+}
